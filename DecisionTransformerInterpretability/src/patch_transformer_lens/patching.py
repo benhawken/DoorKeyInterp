@@ -47,8 +47,6 @@ AxisNames = Literal[
 
 from typing import Sequence
 
-import streamlit as st
-
 
 def make_df_from_ranges(
     column_max_ranges: Sequence[int], column_names: Sequence[str]
