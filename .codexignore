@@ -1,9 +1,0 @@
-# heavy stuff the model doesn’t need
-data/**
-*.pth
-*.pt
-*.mp4
-*.txt
-__pycache__/**
-*.ipynb_checkpoints/**
-*.zip
